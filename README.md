@@ -21,7 +21,6 @@ The goal was to monitor, analyze, and respond to security events across my netwo
 - **Wazuh Dashboard** for visual monitoring and security analysis.
 - **Wazuh Agent** installed on Ubuntu to forward logs to the manager.
 - **Firewall Configuration** to enable secure communication on ports 1514, 1515, and 55000.
-- **Dynamic DNS Integration** for remote management.
 
 ---
 
